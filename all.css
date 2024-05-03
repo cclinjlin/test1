@@ -1,3 +1,13 @@
 body{
     color: blue
 }
+h1{
+    color: red;
+
+    font-size: xxx-large
+}
+p{
+    color: brown;
+
+    font-size: medium;
+}
