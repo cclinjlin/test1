@@ -1,0 +1,25 @@
+header{
+    background-color: aquamarine;
+    color: brown;
+}
+article{
+    display: inline-block;
+    width: 600px;
+}
+aside{
+    display: inline-block;
+    width: 175px;
+    position: fixed;
+    right: 0;
+    color: green;
+    border-style: dashed;
+    border-color: bisque;
+    background-color: azure;
+}
+footer{
+    color: hotpink;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}

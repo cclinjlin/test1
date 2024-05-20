@@ -13,6 +13,8 @@ p{
 #nav{
     width: 90%;
     display: inline-block;
+    background-color: blueviolet;
+    color: silver;
 }
 #footer{
     color: hotpink;
